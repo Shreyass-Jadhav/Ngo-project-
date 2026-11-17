@@ -1,0 +1,16 @@
+[
+ {"slug":"rangoli-competition","title":"Rangoli Competition","blurb":"Colour, creativity and community spirit with local children.","featured":true},
+ {"slug":"school-awareness","title":"School Awareness Programs","blurb":"Sessions in schools on child rights, safety and protection laws.","featured":true},
+ {"slug":"tuition-classes","title":"Tuition Classes","blurb":"Community tuition centres keeping children learning after school.","featured":true},
+ {"slug":"public-awareness","title":"General Public Awareness","blurb":"Taking awareness on women's and children's rights into neighbourhoods."},
+ {"slug":"adolescent-awareness","title":"Adolescent Awareness","blurb":"Guiding adolescents with information and confidence."},
+ {"slug":"child-labour-day","title":"Child Labour Day","blurb":"Rallies and events against child labour."},
+ {"slug":"childrens-day","title":"Children's Day Celebration","blurb":"A day of celebration, awards and joy for children."},
+ {"slug":"environment-day","title":"Environment Day","blurb":"Campaigns and rallies for a greener community."},
+ {"slug":"community-engagement","title":"Community Engagement","blurb":"Gatherings that bring women and families together."},
+ {"slug":"drawing-competition","title":"Drawing Competition","blurb":"Children express their ideas through art."},
+ {"slug":"tuition-kolikari","title":"Tuition Centre Opening, Kolikari","blurb":"Opening a new learning centre for local children."},
+ {"slug":"tuition-laxmisingankeri","title":"Tuition Centre Opening, Laxmisingankeri","blurb":"Opening a new learning centre for local children."},
+ {"slug":"state-workshop-kalaburagi","title":"State-Level Workshop, Kalaburagi","blurb":"Sharing and learning with organisations across Karnataka."},
+ {"slug":"office-inauguration","title":"Office Inauguration","blurb":"The opening of our Dharwad office."}
+]

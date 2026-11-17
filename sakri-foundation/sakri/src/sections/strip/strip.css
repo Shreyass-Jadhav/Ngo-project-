@@ -1,0 +1,8 @@
+.strip-wrap{margin-top:1.5rem}
+.strip{display:flex;gap:.75rem;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:0 4vw 1rem}
+.strip::-webkit-scrollbar{height:5px}
+.strip::-webkit-scrollbar-track{background:var(--sand)}
+.strip::-webkit-scrollbar-thumb{background:var(--teal);border-radius:3px}
+.strip a{flex:0 0 240px;scroll-snap-align:start;border-radius:var(--radius-sm);overflow:hidden;display:block;box-shadow:var(--shadow-sm)}
+.strip a img{width:100%;height:170px;object-fit:cover;display:block;transition:transform .4s}
+.strip a:hover img{transform:scale(1.06)}

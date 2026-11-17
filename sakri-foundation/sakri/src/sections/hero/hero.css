@@ -1,0 +1,11 @@
+.hero{position:relative;overflow:hidden;color:var(--white);padding:clamp(7rem,18vw,12rem) 0 clamp(5rem,12vw,9rem);background:var(--teal-d)}
+.hero-img{position:absolute;left:0;top:-12%;width:100%;height:130%;object-fit:cover;will-change:transform}
+.hero-overlay{position:absolute;inset:0;background:linear-gradient(100deg,rgba(10,69,80,.92) 0%,rgba(10,69,80,.78) 50%,rgba(10,69,80,.35) 100%)}
+.hero-in{position:relative;z-index:1;max-width:700px}
+.hero-badge{display:inline-block;background:rgba(255,255,255,.12);backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:.4rem 1rem;font-size:.82rem;font-weight:600;letter-spacing:.04em;color:#ffd9a0;margin-bottom:1.5rem}
+.hero h1{color:var(--white);font-size:clamp(2.4rem,6vw,4.2rem);max-width:16ch;margin:.5rem 0 1.2rem;line-height:1.1}
+.hero-em{color:var(--saffron);font-style:italic}
+.hero-sub{font-size:1.15rem;line-height:1.7;color:rgba(255,255,255,.88);max-width:52ch;margin-bottom:2.2rem}
+.hero .cta{display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:2.5rem}
+.hero-trust{display:flex;gap:1.5rem;flex-wrap:wrap;font-size:.82rem;font-weight:600;color:rgba(255,255,255,.65);border-top:1px solid rgba(255,255,255,.12);padding-top:1.5rem}
+.hero-trust span{display:flex;align-items:center;gap:.35rem}

@@ -1,0 +1,2 @@
+#news .card .body{display:flex;flex-direction:column;gap:.3rem}
+#news .card .more{margin-top:auto;padding-top:.6rem}

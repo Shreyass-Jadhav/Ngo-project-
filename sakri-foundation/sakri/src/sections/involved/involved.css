@@ -1,0 +1,10 @@
+.involved{background:linear-gradient(135deg,var(--green) 0%,var(--teal) 100%);color:#fff}
+.involved .eyebrow{color:#ffd9a0}
+.involved .eyebrow::before{background:#ffd9a0}
+.involved-cards{display:grid;gap:1.2rem;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));margin-top:2.5rem}
+.inv-card{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);border-radius:var(--radius);padding:1.75rem;display:flex;flex-direction:column;gap:.6rem;transition:background .3s,transform .3s}
+.inv-card:hover{background:rgba(255,255,255,.18);transform:translateY(-4px)}
+.inv-card--accent{background:rgba(255,255,255,.2);border-color:rgba(255,255,255,.35)}
+.inv-ico{font-size:2rem;line-height:1}
+.inv-card h3{color:#fff;margin-bottom:.2rem}
+.inv-card p{color:rgba(255,255,255,.82);font-size:.93rem}

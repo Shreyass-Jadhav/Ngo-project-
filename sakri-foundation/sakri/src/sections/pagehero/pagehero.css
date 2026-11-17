@@ -1,0 +1,8 @@
+.pagehero{position:relative;overflow:hidden;color:#fff;padding:clamp(4rem,10vw,7rem) 0 clamp(3rem,7vw,5rem);background:var(--teal-d)}
+.pagehero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.35;will-change:transform}
+.pagehero::after{content:'';position:absolute;inset:0;background:linear-gradient(to right,rgba(10,69,80,.85) 0%,rgba(10,69,80,.5) 100%)}
+.pagehero .container{position:relative;z-index:1}
+.crumbs{font-size:.85rem;color:rgba(255,255,255,.7);margin-bottom:.8rem;display:flex;align-items:center;gap:.4rem}
+.crumbs a{color:rgba(255,255,255,.7);text-decoration:none;transition:color .2s}
+.crumbs a:hover{color:#ffd9a0}
+.pagehero h1{color:#fff;font-size:clamp(2rem,5vw,3.4rem);max-width:20ch}
