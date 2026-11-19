@@ -1,11 +1,2 @@
-.gallery-page{padding:3rem 0}
-.gal{padding:2.5rem 0;border-bottom:1px solid var(--sand-d)}
-.gal:last-child{border-bottom:none}
-.gal h2{margin-bottom:.4rem}
-.gal .lead{margin-bottom:1.2rem}
-.masonry{columns:3 240px;gap:1rem}
-.masonry img{width:100%;margin-bottom:1rem;border-radius:var(--radius-sm);cursor:zoom-in;break-inside:avoid;transition:transform .3s,box-shadow .3s}
-.masonry img:hover{transform:scale(1.02);box-shadow:var(--shadow)}
-dialog.lb{border:0;background:#000d;max-width:100vw;max-height:100vh;width:100vw;height:100vh;padding:1rem;cursor:zoom-out;display:grid;place-items:center}
-dialog.lb img{max-width:92vw;max-height:92vh;border-radius:12px;box-shadow:0 0 60px rgba(0,0,0,.8)}
-dialog.lb::backdrop{background:rgba(0,0,0,.85)}
+.gallery-page{padding:3rem 0}.gal{padding:2rem 0}.masonry{columns:3 260px;gap:1rem}.masonry img{width:100%;margin-bottom:1rem;border-radius:12px;cursor:zoom-in;break-inside:avoid;transition:transform .3s}
+.masonry img:hover{transform:scale(1.02)}dialog.lb{border:0;background:#000d;max-width:100vw;max-height:100vh;width:100vw;height:100vh;padding:1rem;cursor:zoom-out}dialog.lb img{margin:auto;max-width:96vw;max-height:94vh;display:block;border-radius:8px}
